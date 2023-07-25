@@ -43,3 +43,5 @@ Steps Building this project
 5. Creating the Footer Component
 6. Creating the Car Catalogue Section(Searchbar)
 7. Using rapidAPI, creating a function in utils folder for fetching the cars
+8. Creating the CarCard component for the car cards in the catalogue section
+9. Creating the Car Details Modal
