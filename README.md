@@ -45,3 +45,4 @@ Steps Building this project
 7. Using rapidAPI, creating a function in utils folder for fetching the cars
 8. Creating the CarCard component for the car cards in the catalogue section
 9. Creating the Car Details Modal
+10. Using another api for cars image(using generateCarImageUrl from utils folder)
