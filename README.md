@@ -46,3 +46,5 @@ Steps Building this project
 8. Creating the CarCard component for the car cards in the catalogue section
 9. Creating the Car Details Modal
 10. Using another api for cars image(using generateCarImageUrl from utils folder)
+11. Changing the searchParams from the SearchBar.tsx and getting the params in the page.tsx, then fetching the data according to the searchParams
+12. Creating the CustomFilter component just under the SearchBar
