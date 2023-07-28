@@ -47,4 +47,7 @@ Steps Building this project
 9. Creating the Car Details Modal
 10. Using another api for cars image(using generateCarImageUrl from utils folder)
 11. Changing the searchParams from the SearchBar.tsx and getting the params in the page.tsx, then fetching the data according to the searchParams
-12. Creating the CustomFilter component just under the SearchBar
+12. Creating the CustomFilter component just under the SearchBar, updating the searchParams even there and fetching accordingly
+13. Creating the ShowMore component
+
+14. There is a bug in the server side rendering of the cars(after rendering, the website doesn't remains in the same position, it goes up to the top) so we are shifting from ssr to csr to fix this thing.
