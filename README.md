@@ -51,3 +51,6 @@ Steps Building this project
 13. Creating the ShowMore component
 
 14. There is a bug in the server side rendering of the cars(after rendering, the website doesn't remains in the same position, it goes up to the top) so we are shifting from ssr to csr to fix this thing.
+
+15. Changing some of the types of the Props since we changed the props while converting to CSR
+16. Deploying it to vercel
